@@ -179,6 +179,17 @@
       }
     },
     {
+      "name": "emoji_fox",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
       "name": "isometric-fountain",
       "times": [
         0.0
