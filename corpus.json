@@ -256,6 +256,50 @@
       }
     },
     {
+      "name": "raster-adjustments-astronaut",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "raster-adjustments-chart",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "raster-adjustments-chelsea",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "raster-adjustments-coffee",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
       "name": "red-dress",
       "times": [
         0.0
