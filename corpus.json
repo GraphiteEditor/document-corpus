@@ -353,6 +353,17 @@
         "channel": 2,
         "pixels": 0.001
       }
+    },
+    {
+      "name": "vector-path-operations",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
     }
   ]
 }
