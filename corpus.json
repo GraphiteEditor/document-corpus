@@ -245,6 +245,28 @@
       }
     },
     {
+      "name": "math-list-plots",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
+      "name": "math-plots",
+      "times": [
+        0.0
+      ],
+      "scale": 1.0,
+      "tolerance": {
+        "channel": 2,
+        "pixels": 0.001
+      }
+    },
+    {
       "name": "neon",
       "times": [
         0.0
